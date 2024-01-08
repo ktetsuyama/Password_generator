@@ -36,7 +36,7 @@ The client is prompted to choose whether they would like each of the options and
 
 ## Credits
 
-I collaborated and John Young to troubleshoot any bugs that I had during development of this application.
+I collaborated George Schultz, Aster Oliva, Meera G K, and Aileen Ngyuen to troubleshoot any bugs that I had during development of this application. I also used phind.com to understand why my variables weren't being called. 
 
 Tutorials used:
 
