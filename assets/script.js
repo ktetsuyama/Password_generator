@@ -80,6 +80,7 @@ function generatePassword() {
 		alert("I will generate your password.");
 	}
 	// for each character in the password, randomly select a chosen character type, randomly select a character from that type, add it to the password
+	// I worked on this section with George Schultz
 
 	if (choicesUpp) {
 		userPass = userPass.concat(this.choicesUpp);
@@ -94,6 +95,7 @@ function generatePassword() {
 		userPass = userPass.concat(this.choicesSpec);
 	}
 	
+	// I worked on this section with Meera GK, Aster Oliva, and George Schultz
 	var finalPassword = "";
 
 	for (var i = 0; i < passLength; i++) {
